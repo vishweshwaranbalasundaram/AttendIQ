@@ -845,7 +845,7 @@ Replace the placeholders with real names before publishing.
 
 ## License and credits
 
-No `LICENSE` file is present in this repository yet. Add one (for example MIT) before others reuse the code.
+Released under the MIT License. See the [LICENSE](LICENSE) file.
 
 Built with [FastAPI](https://fastapi.tiangolo.com), [Uvicorn](https://www.uvicorn.org), [Pydantic](https://docs.pydantic.dev), [PyJWT](https://pyjwt.readthedocs.io), [Streamlit](https://streamlit.io), [mysql-connector-python](https://dev.mysql.com/doc/connector-python/), the [Anthropic Python SDK](https://github.com/anthropics/anthropic-sdk-python), [qrcode](https://github.com/lincolnloop/python-qrcode), [pytest](https://pytest.org) and [httpx](https://www.python-httpx.org).
 
